@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>All to Westminster: newes from Elizium, or, A packet of wonders, brought over in Charons ferry-boat last spring tyde: discovering many notable things worth observation, 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76051</idno>
+            <idno type="STC">Wing A949</idno>
+            <idno type="STC">Thomason E156_2</idno>
+            <idno type="EEBO-CITATION">99859510</idno>
+            <idno type="PROQUEST">99859510</idno>
+            <idno type="VID">156865</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76051)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156865)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E156[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>All to Westminster: newes from Elizium, or, A packet of wonders, brought over in Charons ferry-boat last spring tyde: discovering many notable things worth observation, 1641.</title>
+               </titleStmt>
+               <extent>[2], 6 p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page woodcut port.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Laud, William, 1573-1645 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156865:1"/>
+            <pb facs="tcp:156865:1" rendition="simple:additions"/>
+            <p>
+               <hi>All to Weſtminſter:</hi> NEWES FROM ELIZIUM, OR, A Packet of wonders, brought over in <hi>Charons</hi> Ferry-Boat laſt Spring Tyde: Diſcovering many notable things worth Obſervation, 1641.</p>
+            <figure>
+               <figDesc>woodcut portrait of a man in clerical dress</figDesc>
+            </figure>
+            <p>Printed in the Yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:156865:2"/>
+            <head>All to Weſtminſter.</head>
+            <p>IN the ſtill houres of the gloomy night, when <hi>Morpheus</hi> was the ſecure Canopy of moſt mens hearts, my trou<g ref="char:EOLhyphen"/>bled fancy kept me waking, and various whimſies did ſuggeſt into my ſecret thoughts, wherby my wearied body could take no reſt, though in the ſtill houres of the cloudy night; <hi>but after the paſſing over of ſome ſad meditations, the moone began to ſhine, which ſeemed to me delightfull: then I aroſe, for my cogitations invited mee to walke abroad.</hi>
+            </p>
+            <p>I went into the city, and walk't from ſtreet to ſtreet, but the beating of the city drums did almoſt break my brain: I went into the Country, and eſpying a great houſe, I viſited it, and when I approached, I caſt my eyes upon it, &amp; walked about it, where at laſt <hi>I</hi> beheld the porch: I went into it, and there J laid me down to ſleep; but J was ſoon diſtur<g ref="char:EOLhyphen"/>bed. The Country Swaines came thither, knocking at the dore, with their long pike-ſtaves in their hands, and their pouches hanging by their ſide, they ſrighted me terribly: I know not what to thinke of it, but I ſpake boldly unto them, and asked them what place that was: who an<g ref="char:EOLhyphen"/>ſwered me that a Judge dwelt there: I asked them againe, <hi>doth your Judge (quoth I) heare Caſes in the night? and they told me, that they were thus often troubled and detracted from their reſt, to come thither, elſe (quoth they) wee ſhould goe to law, but never meet with Goſpellers;</hi> I asked them why they carryed ſuch long ſtaves in their hands, and ſuch pouches by their ſides, and many ſuch like queſtions, and they told me, <hi>that their ſtaves were to defend them from theeves, that lay lurking up and downe the Country, and that their bags were to put writings &amp; their money in, both which they brought to the Gentleman of the houſe, to defend their cauſe, and aſſiſt
+<pb n="1" facs="tcp:156865:2"/>them againſt their adverſary, that would wrong them in their eſtates.</hi> But they told me ſuch a ſtory, that J was almoſt mad, me thought the houſe began to ſinke, and J poore timorous Cative, began to flye, and tooke ſanctuary in the Church-porch: there J laid me down again, thinking with my ſelfe, <hi>ſurely here I ſhall reſt quietly,</hi> but before I was web laid, and had contrived my place to lye to ſleepe, I heard a clomping noiſe, as if ſome horſe had come into the porch, and looking what it was, <hi>I eſpyed a Country fellow, I think it was the Sexton came to toule the bell for ſome body that lay dying, and he told me that my Lords grace of Canterbury, had ſent a command, that none ſhould put the conſecrated Temple to common uſes,</hi> and therefore he told me that I muſt not ſleepe in the Church-porch; for it is holy (qd. he) <hi>what thought I, will not England afford me a reſting place: away I ſayled into Ireland, to ſea what entertainment I could get there; but I was there troubled with ſo many Croſſes, &amp; heard ſo many lamentations like forlorne Pilgrims amongſt the peo<g ref="char:EOLhyphen"/>ple, that being extreame weary, and diſcontented, I prayed for them and departed.</hi>
+            </p>
+            <p>Then away J betooke me into <hi>Scotland,</hi> and there I met with 3 or 4 bonny <hi>Scots,</hi> In their blew caps, and I told them the ſtory of my travels, &amp; they made me to drinke of their <hi>Scottiſh</hi> Ale, and comforted me, and told me that my beſt way to reſt quietly, was to obtain a lodging in <hi>Weſtminſter</hi> hall, they told me that there were erected thouſands of new quiet lodgings, pleaſant &amp; delightfull, where, though a man had no reſt quietly this 20 or 30 years, he might yet there ſleepe ſecurely, and take ſweet and comfortable reſt, which made me very glad, and I came amaine to <hi>Weſtminſter</hi> Hall, where I found the bonny <hi>Scottiſh-mans</hi> words true, where I ſlept ever ſince, and tooke my reſt ſo well, to my great comfort, <hi>that I often thinke what cauſe I have to cry, God-amercy good Scot.</hi> But yet in the midſt of a deepe ſleepe, me thought I ſaw a ſtrange viſion, which J ſhall declare.</p>
+            <div type="part">
+               <pb n="2" facs="tcp:156865:3"/>
+               <head>The Viſion.</head>
+               <p>Neare unto my bed (me thought) I did eſpy a doore which I opened, &amp; went through, when I had paſſed the doore, me thought I was by the Sea ſide, and ſeeing people there, I demanded what place that was, <hi>and they anſwered that it was the landing place for Carons</hi> Ferry-bote, when they ſaid ſo, <hi>J</hi> looked over the waves, and eſpyed the boat, but far off, which they told me came from <hi>Elizium:</hi> the Paſſengers they told me were <hi>Pluto</hi> his priſoners, Now on a ſuddaine the winds aroſe, and the waves did beat, and the boate came wafting amaine, one while they mounted to the top of the higheſt waves, and on a ſuddain were out of ſight; <hi>But ſuch was their miſhap, that on a ſudden they were drove upon a rock, which ſplit their boat in peeces,</hi> Charon <hi>himſefle being a good ſwimmer, returned home to carry the newes of his miſhap, the paſſengers got upon plancks and boards, and ſhifted each man for himſelfe as they could, being all in danger of every wave to ſinck into the deluge:</hi> now I ſhall tell you what did after<g ref="char:EOLhyphen"/>wards enſue to ſome of them.</p>
+            </div>
+            <div type="part">
+               <head>Thoſe that landed in <hi>France.</hi>
+               </head>
+               <p>Me thought no <hi>Gold-ſinch,</hi> not the ſwifteſt bird was able to out fly the one, who ſoon made franch his ſhore, a ſeco<g ref="char:cmbAbbrStroke">̄</g>d alſo, faſtning himſelfe unto a great planck, was by the rage of the furious winds blown with as much ſwiftneſſe to the bankes bordering on the French Seas, others alſo of both Sects found ſhelter there when they were drove to ſhore, and ſo have ſaved their lives.</p>
+            </div>
+            <div type="part">
+               <head>Thoſe that landed at the <hi>Ferry-place.</hi>
+               </head>
+               <p>The firſt that approached to the ſhore, where we beheld this ſight, came aſhore with helpe, extreame weary, and dropping wet, ſtaggering like an <hi>Iriſh</hi> Sea Crab, being al<g ref="char:EOLhyphen"/>moſt ſpent with thoſe turmoyling waves, through which he lately paſt: Now whereas there was a great ſtacke of
+<pb n="3" facs="tcp:156865:3"/>ſtraw at a foord comming from the Sea, through a Chan<g ref="char:EOLhyphen"/>nell into the Land, he betakes himſelfe thither, and there he ſits to reſt himſelfe a while, but being wet, and ſitting in the cold, found himſelfe to be very ill, inſomuch that ri<g ref="char:EOLhyphen"/>ſing up, he found it difficult to goe, and therefore called for helpe to aſſiſt him, who tooke the next <hi>Inne,</hi> which chanced to be the Caſtle for his lodging, the extremity of his ſick<g ref="char:EOLhyphen"/>neſſe grew greater, who ſent for divers Doctors to come unto him, who came and adviſed with him: there came to him a Dutch Doctor, and he told him that his diſtempe<g ref="char:EOLhyphen"/>red braine had brought him into a frenzy, and that his body would never be well, untill his braines were taken a<g ref="char:EOLhyphen"/>way: There came to him a French Doctor, and hee told him that an <hi>Italian</hi> purge (which he would procure for him) made of the beſt approved drugs in <hi>Rome,</hi> was the one<g ref="char:EOLhyphen"/>ly phyſick for his malady, acquainting him that his Diſ<g ref="char:EOLhyphen"/>eaſe was deſperate, and therefore he muſt be content to be<g ref="char:EOLhyphen"/>take himſelfe to a deſperate potion; who told the Patient that he would warrant his Medcin, either to amend him, or end him.</p>
+               <p>There came an <hi>Iriſh</hi> Doctor, who told him that he found that there was a bladder of blood in his throat, growing in a dangerous place, and if that was well cut off by Doctor Gregory, or ſome other ſuch experienced Practitioner, no doubt he would recover, and be at eaſe.</p>
+               <p>Then came the <hi>Scottiſh</hi> Doctor, and he told him plainly a my ſaule man (qd. he) there is nae way but death, &amp; ther<g ref="char:EOLhyphen"/>ſore adviſed him to prapare himſelfe; for I warrant thee (quoth he) thou'ſt dye, or I will dye for tee.</p>
+               <p>Laſt of all came the <hi>Engliſh</hi> Doctor, who preſcribed him rich Cordials, and all the means that could beto com<g ref="char:EOLhyphen"/>fort him, but alas it was all to no purpoſe; for a certaine time came, when poore man he fell down upon the floore, but he had ſuch a fall that made his head and body part, and he never ſpake word after.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:156865:4"/>
+               <head>The ſecond that landed at the Ferry-place.</head>
+               <p>After him was driven to ſhore, an old man in a Canting gown, as black as a berry; &amp; well was it for him that he had a gown, or elſe he had bin drown'd before he came aſhore, for the ſpreading of the skirts of his great gown kept him. He was convei'd to a private mans lodging at <hi>Lambeth,</hi> who comming into the Hall, ſate by the fier ſide, intending to put off his clothes, and to dry himſelfe, but the Chamber<g ref="char:EOLhyphen"/>lain came in, and told him, that the hall was appointed for other companies, and therefore deſired him to walke into the lower Chamber, which he was loath to doe, but being conſtrained, at the laſt he went, <hi>where he cauſed a good fire to be made, the chamber to be aired, and his bed to be warmed, &amp; ſo he put off his clothes, &amp; went to bed: but being very ill, could not take his reſt quietly, but ſlumbered and raved &amp; muttered in his ſleepe extreamly, and when he awaked, one asked him how he did, who anſwered, that he was very ſick, &amp; being asked what diſtur bed him, he ſaid, he was in a dreame: I dreamed, viz.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The old mans dreame in the black gowne.</head>
+               <p>Me thought (qd. he) J was a great man, and very ambiti<g ref="char:EOLhyphen"/>ous of honour, and ſo much, that <hi>I</hi> laid my hands upon a Princes Crown to take it by force, or at leaſt to overtop it: <hi>but I tumbled &amp; knocked my head againſt it, and did almoſt, if not altogether (by that means) knock out my braines:</hi> ſo that I was faine to ſend for Surgeons to come and dreſſe my wounds, w<hi rend="sup">ch</hi> ſwelled extreamly, they appointed me a pla<g ref="char:EOLhyphen"/>ſter to aſſwage the ſwelling, but it put me to ſuch extrea<g ref="char:EOLhyphen"/>mity of pain, that I could not ſuffer it, and J required ſome other courſe to be taken to cure me; for I told them (qd. he) that death it ſelfe was more ſupportable, then the irck<g ref="char:EOLhyphen"/>ſome plaſter, <hi>ſo contrary to my Nature, &amp; I was me thought (qd. he) ſo extreamly humorſome with them, that they departed and left me to my ſelfe, but I threatned them, that if they would not humour me, I would be avenged on them,</hi> which ſwords prevailed ſo far, that I prevailed with the moſt of them to
+<pb n="5" facs="tcp:156865:4"/>pleaſe my fancy, who put pleaſant Oyles into my wounds, and gave me Cordials to comfort me, which gave me pret<g ref="char:EOLhyphen"/>ty eaſe, though my ſore became the more difficult to cure, ſo after a while they departed, leaving mee to my ſelfe a<g ref="char:EOLhyphen"/>lone. <hi>Now when as J was ſo private, I thought it fitteſt (in my meditation) to goe to prayer. My thoughts drew nye to my ca<g ref="char:EOLhyphen"/>binet, where amongſt my other Reliques, my affections led mee to</hi> St. Patrick, <hi>ſo I kneeled downe to pray, &amp; view'd the Image well, and having done prayer, J called for my attendance, and commanded them to ſtand ſtifly in my ayd and be true, and I would be as true to them, when I was exalted into my glory, which I am very confident (qd. he) will be attained unto?</hi> So that I expect my dignity to be an admiration to the world. Is not <hi>Italy</hi> my ayd, <hi>France</hi> my ſuccour, <hi>Spaine</hi> my reliefe, <hi>Rome</hi> my Counſell, and theſe three Kingdomes my prey, doe not my projects thrive, and who dare out-face my will, if the Puritans and <hi>Burton</hi> croſſe my humour, or <hi>Baſtwicke</hi> diſturbe me, if <hi>Laiton, Lilborne,</hi> or any ſuch fellowes riſe a<g ref="char:EOLhyphen"/>gainſt me, i'le prime their eares, whip them, i'le gag them, impriſon and correct them ſeverely for it, and they ſhall know who, &amp; what I am. But amongſt the reſt, me thought I laſh't one Scottiſh man ſoundly, and came neare anothers life, he eſcaped, and he loves me ſince, as well as I loved him then: but the old man being merry with talking, bad his ſervants and attendance to withdraw a while: then me thought (qd. he) I went to my Cabinet again, at which time my fancy choſe St. <hi>Gregory?</hi> I kneeled downe and bowed before it, and begun to pray, but after, qd. he, when J looked ſeriouſly upon it, it made me ſtart, and ſpoyled my devoti<g ref="char:EOLhyphen"/>on; for St. <hi>Gregory</hi> was pictured with a rope about his middle, laying his right hand upon it, as if he had intended to take it off, which made me quake (what thought I, quoth he) doth the <hi>Image</hi> jeere me, <hi>but when I roſe up from my di<g ref="char:EOLhyphen"/>ſturbed praying, I caſt mine eyes behind mee, and me thought there ſtood a young fellow by me with a new Hempen halter in
+<pb n="6" facs="tcp:156865:5"/>his hand which did ſo affright mee, that I fell into a great trance, and crying out, I awaked, and trembled a long time af<g ref="char:EOLhyphen"/>ter; for I thought verily that the three corner'd cap't Rogue would have hanged me preſently.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The <hi>3.</hi> and <hi>4.</hi> that landed there.</head>
+               <p>But to return to my ſtory, there were driven to that fer<g ref="char:EOLhyphen"/>ry-place, two more afterwards, the one was an old man in a fur gowne, juſt like Winter, in <hi>Ruſsian Robes;</hi> he was pre<g ref="char:EOLhyphen"/>ſerved then from drowning for another purpoſe now, and as the other old man before gave laud to St. <hi>Gregory,</hi> and bleſt himſelfe before St. <hi>Patrick:</hi> ſo this dropping wet, halfe drowned barley top't projector, gave praiſe to <hi>Nep<g ref="char:EOLhyphen"/>tune,</hi> and would have plauded <hi>Fortune,</hi> but when he came a<g ref="char:EOLhyphen"/>ſhore, he ſelt him ſelf ill, and his belly full of water, which conſtrained the people, that as they told him to ſhore, ſo they tyed him by the heeles to disburden him of his tym<g ref="char:EOLhyphen"/>pany, and after him came a <hi>Ratliffe Scrivener,</hi> who was ſwolne with the water, as big as St. <hi>George</hi> his horſe, whom the people ordered as they did the other, that the water might run out of his belly, afterwards being disburdened of the water, as opportunity and meanes would permit, <hi>they tooke their lodging at the Lanthorne, neere Yeeld-Hall; theſe two were much taken notice off, and certaine debts were dema<g ref="char:cmbAbbrStroke">̄</g>ded of them, but they anſwered, that they were ſo old, that by law they were loſt, bonds were produced, which made them cry peccavi, but yet they would not pay:</hi> but in the end came an honeſt Meſſenger from <hi>Weſtminſter,</hi> and told them that it did concerne them to looke about them; for <hi>Gregorie</hi> the Officer was ſent for, and if he can but get a warrant, they would be ſure to be Arreſted, and hee's a terrible fellow, a man were as good to be hang'd, as to be in his cuſtody.</p>
+               <p>
+                  <hi>There is more I ſhould have written, but expect it in the ſecond part; So at this time farewell.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
